@@ -1,0 +1,3 @@
+export const TELEGRAM_TOKEN = '5689457371:AAEpGHvJq05aGP_V3c1tftOyL-CgQ1ok0wc';
+export const BINANCE_APIKEY = 'ft0bYFjEPPIhDPPCQSlpRyYMVnuR7jx2JA4V2jqlRiGtIhgbewUtWDsHWlpslm91';
+export const BINANCE_API_SECRET = 'ZxB0dm6XqlzlflFvX3VsWaBAnOFaWObv8oiDJeZDX36I1bTQGVehmqlsm8bEMCqo';

@@ -1,0 +1,15 @@
+{
+    "price": "Giá",
+    "volume_btc": "Khối lượng (BTC)",
+    "volume_usd": "Khối lượng (USDT)",
+    "buy_sell_ratio": "Tỉ lệ Mua/Bán",
+    "price_change_24h_percent": "Giá thay đổi 24h (%)",
+    "price_change_24h_usdt": "Giá thay đổi 24h (USDT)",
+    "long_short_ratio": "Tỉ lệ Long/Short",
+    "volume_short": "Khối lượng Short",
+    "volume_long": "Khối lượng Long",
+    "sell": "Mua",
+    "buy": "Bán",
+    "total": "Tổng",
+    "traders": "Tổng giao dịch"
+}

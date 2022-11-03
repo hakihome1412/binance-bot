@@ -1,0 +1,15 @@
+{
+    "price": "Price",
+    "volume_btc": "BTC Volume",
+    "volume_usd": "USDT Volume",
+    "buy_sell_ratio": "Buy/Sell Ratio",
+    "price_change_24h_percent": "Price change 24h (%)",
+    "price_change_24h_usdt": "Price change 24h (USDT)",
+    "long_short_ratio": "Long/Short Ratio",
+    "volume_short": "Short Volume",
+    "volume_long": "Long Volume",
+    "sell": "Sell",
+    "buy": "Buy",
+    "total": "Total",
+    "traders": "Traders"
+}
